@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.activity-list {
+	list-style-type: none;
+}
+
+.activity-list ul li {
+	display: flex;
+	flex-wrap: nowrap;
+}
+
+.activity-list input {
+	width: 20px;
+}
+
+.activity-list p {
+	padding: 10px;
+}
